@@ -10,5 +10,5 @@ function capitalize(first_name, last_name){
   // concatenate all result for combinate the words.
   return first + rest_First + " " + last + rest_Last;
 }
-// callback the function with 2 parameters.
+// callback the function with 2 Arguments.
 console.log(capitalize("céDriC", "cAzAl"));
